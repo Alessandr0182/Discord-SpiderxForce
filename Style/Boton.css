@@ -17,3 +17,16 @@
         margin: 30px;
         border-radius: 25px;
     }
+    #btn-atras {
+    color: #ffffff;
+    transition-duration: 0.5;
+    background-color: #242525;
+    width: 160px;
+    height: 30px;
+    font-size: 20px;
+        }
+    #btn-atras:hover{
+        background-color: #ffffff;
+        color:  #242525;
+        text-align: center;
+    }
