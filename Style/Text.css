@@ -1,16 +1,40 @@
-#palabras.net{
-    font-size: 13vh;
+#sc{
     text-align: center;
-    background-color: #36393c
+    color:rgb(255, 255, 255);   
 }
-#h2-tittle{
+.a-ref{
+    color: #fff;
+    font-size: 1.5em;
+    text-decoration: none; /* Propiedad que sirve para quitar el subrayado en las etiquetas <a> */
+}
+.a-ref:hover{
+    font-size: 1.7em;
+}
+#H1T{
     font-size: 13vh;
-    color:blue;    
+    color:rgb(255, 255, 255);    
     text-align: center;
-    background-color: #36393c
+    background-color: #47494b;
    }
-#html{
-    font-size: 30px;
-    color: #000000;    
-    background-color: #4b4f57;
+#linkseccion{
+    font-size: 15px;
+    color: #ffffff;    
    }
+#H3S{
+    color:rgb(255, 255, 255);    
+   }
+#GENERAL{
+    color: #ffffff;    
+   }
+#sugerencia{
+    color: #ffffff;    
+   }
+#GRUPOS{
+    color: #ffffff;    
+   }
+#SPAM{
+    color: #ffffff; 
+}
+#VIP{
+    color: #ffffff;
+}
