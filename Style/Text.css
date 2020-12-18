@@ -1,39 +1,48 @@
 #sc{
     text-align: center;
-    color:rgb(255, 255, 255);   
+    color:white  
 }
 .a-ref{
-    color: #fff;
+    color: white;
     font-size: 1.5em;
-    text-decoration: none; /* Propiedad que sirve para quitar el subrayado en las etiquetas <a> */
+    text-decoration: none; /* Anti Subrayado */
 }
 .a-ref:hover{
-    font-size: 1.7em;
+    font-size: 1.8em;  /* Evento de Mouse */
 }
 #H1T{
     font-size: 13vh;
-    color:rgb(255, 255, 255);    
+    color: white;
     text-align: center;
    }
 #linkseccion{
     font-size: 15px;
-    color: #ffffff;    
+    color: white;    
    }
 #H3S{
-    color:rgb(255, 255, 255);    
+    color:white
    }
 #GENERAL{
-    color: #ffffff;    
+    color: white;    
    }
 #sugerencia{
-    color: #ffffff;    
+    color: white;    
    }
 #GRUPOS{
-    color: #ffffff;    
+    color: white;    
    }
 #SPAM{
-    color: #ffffff; 
+    color:white; 
 }
 #VIP{
-    color: #ffffff;
+    color: white;
+}
+#disc{
+    text-align: center;
+}
+#auto{
+    color: white;
+}
+#impo{
+    color :white
 }
