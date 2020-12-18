@@ -16,8 +16,14 @@
     text-align: center;
    }
 #linkseccion{
-    font-size: 15px;
-    color: white;    
+    font-size: 20px;
+    color: white;  
+    text-decoration: none; /* Anti Subrayado */
+   }
+#linkseccion:hover{
+    font-size: 20px;
+    color:#36393f;;  
+    text-decoration: none; /* Anti Subrayado */
    }
 #H3S{
     color:white
@@ -45,4 +51,8 @@
 }
 #impo{
     color :white
+}
+#p{
+    color:  #7e91b6;
+    font-size: 1px; /* Espacio de Boton /*
 }
