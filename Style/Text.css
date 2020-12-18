@@ -4,14 +4,14 @@
 }
 .a-ref{
     color: white;
-    font-size: 1.5em;
+    font-size: 1.0em;
     text-decoration: none; /* Anti Subrayado */
 }
 .a-ref:hover{
-    font-size: 1.8em;  /* Evento de Mouse */
+    font-size: 1.2em;  /* Evento de Mouse */
 }
 #H1T{
-    font-size: 13vh;
+    font-size: 10vh;
     color: white;
     text-align: center;
    }
@@ -19,11 +19,13 @@
     font-size: 20px;
     color: white;  
     text-decoration: none; /* Anti Subrayado */
+    text-align: center;
    }
 #linkseccion:hover{
     font-size: 20px;
     color:#36393f;;  
     text-decoration: none; /* Anti Subrayado */
+    text-align: center;
    }
 #H3S{
     color:white
@@ -54,5 +56,12 @@
 }
 #p{
     color:  #7e91b6;
-    font-size: 1px; /* Espacio de Boton /*
+    font-size: 1px; /* Espacio de Boton */
+    }
+.index{
+    width: 80%
+    max-width: 1000px;
+    ;
+}
+
 }
